@@ -7,7 +7,6 @@ setup(
     install_requires=[flair,duckduckgo_search,pandas,numpy,matplotlib,pytesseract,cv2,requests,bs4,re,PIL,fastdownload,time],
     author='Harsh Jadhav',
     author_email='jadhavharshvardhan6301@gmail.com',
-    description='A python package using OCR, NLP for goal of extracting and mining information through web searches
-*In development*',
+    description='A python package using OCR, NLP for goal of extracting and mining information through web searches *In development*',
     url='https://github.com/Harshj6301/Crawler',
 )
